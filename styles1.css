@@ -1,0 +1,22 @@
+table, th, tr, td {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+}
+
+table {
+    width: 700px;
+}
+
+th {
+    background-color: rgb(57, 70, 220);
+    color:aliceblue;
+    border-bottom: 5px solid #2ecafa;
+}
+
+td {
+    background-color: rgb(249, 208, 183);
+}
